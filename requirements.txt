@@ -29,7 +29,7 @@ nest-asyncio==1.6.0
 networkx==3.4.2
 numpy==2.2.4
 packaging==24.2
-pandas==2.2.3
+pandas
 parso==0.8.4
 pexpect==4.9.0
 pillow==11.1.0
@@ -48,9 +48,9 @@ requests==2.32.3
 setuptools==78.0.1
 six==1.17.0
 stack-data==0.6.3
-sympy==1.13.1
-torch==2.6.0
-torchinfo==1.8.0
+sympy
+torch
+torchinfo
 tornado==6.4.2
 traitlets==5.14.3
 typing_extensions==4.12.2
