@@ -73,8 +73,7 @@ The training objective combines several loss components:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/H4znow/ai-nutrition-recommendation.git
-   cd ai-nutrition-recommendation
+   git clone https://github.com/Cozgg/gym-diet-project.git
    ```
 
 2. **Install Dependencies:**
